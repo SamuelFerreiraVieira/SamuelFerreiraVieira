@@ -1,6 +1,6 @@
 # 🚀 Samuel Ferreira 
 
-**`FullStack Developer`**
+**`Back-End Developer`**
 
 My name is Samuel Ferreira, I’m 18 years old and I’m from Ceará, Brazil. I recently finished high school and started my journey in technology at a young age, building practical projects and gaining experience in both front-end and back-end development.
 
