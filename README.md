@@ -25,11 +25,11 @@ I am passionate about technology, continuous learning, and problem solving. I al
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="SpringBoot" 
+    title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://icon.icepanel.io/Technology/svg/Spring.svg" 
 />
 <img 
     align="left" 
