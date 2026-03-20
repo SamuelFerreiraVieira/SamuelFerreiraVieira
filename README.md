@@ -16,11 +16,11 @@ I am passionate about technology, continuous learning, and problem solving. I al
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg)" 
 />
 
 <img 
@@ -48,14 +48,7 @@ I am passionate about technology, continuous learning, and problem solving. I al
     style="padding-right: 10px;" 
     src="https://nodejs.org/static/logos/jsIconGreen.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+
 
 <img 
     align="left" 
@@ -65,14 +58,7 @@ I am passionate about technology, continuous learning, and problem solving. I al
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <img 
     align="left" 
