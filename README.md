@@ -20,7 +20,7 @@ I am passionate about technology, continuous learning, and problem solving. I al
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg)" 
+    src="https://icon.icepanel.io/Technology/svg/Java.svg"
 />
 
 <img 
